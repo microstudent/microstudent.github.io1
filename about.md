@@ -4,7 +4,7 @@ title: 关于
 permalink: /about/
 ---
 
-MicroStudent，来自天朝的一名普通CS学生，目前正在为android学习努力中，励志成为一名优秀的程序员！
+MicroStudent，来自天朝的一名普通学生，目前正在为Android学习努力中，励志成为一名优秀的程序员！
 
 ### 人物属性
 
