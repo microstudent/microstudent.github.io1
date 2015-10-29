@@ -1,10 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: 我的第一篇博文in Github
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+这是我在GitHub上的第一篇博文，之前有鼓捣过Ghost和Hexo之类的框架来写，搭建在阿里云上，可是没有去申请域名，最后都没能坚持下去，羞愧ing~~~
+在Github上建立博文的好处是不需要为服务器发愁，而且没有备案之类的乱七八糟的东西，这一点让我很心动。
+希望以后我能够坚持写完自己的博客吧！
