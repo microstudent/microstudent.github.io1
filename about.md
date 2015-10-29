@@ -16,4 +16,4 @@ MicroStudent，来自天朝的一名普通CS学生，目前正在为android学�
 
 ### 联系方式
 
-知乎：http://www.zhihu.com/people/yizhang-shu-xie
+[知乎](http://www.zhihu.com/people/yizhang-shu-xie)
