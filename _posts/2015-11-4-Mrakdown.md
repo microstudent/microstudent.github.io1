@@ -17,9 +17,10 @@ Markdown是一种轻量级的标记语言，可以很方便的进行排版，通
 
 就像下面这样：
 
-	# 一级标题
-	## 二级标题
-	### 三级标题
+> \# 一级标题
+> \## 二级标题
+> \### 三级标题
+
 他们所对应的效果是这样的：
 ![](http://ww1.sinaimg.cn/large/74311666jw1exo8ordku5j206205vt8v.jpg)
 
@@ -56,9 +57,9 @@ Markdown是一种轻量级的标记语言，可以很方便的进行排版，通
 ![](http://ww2.sinaimg.cn/large/74311666jw1exo9amox7uj211x0ki0yk.jpg)
 
 我用的主题是[Spacegray](http://kkga.github.io/spacegray/)，有兴趣的同学也可以去安装这个主题哟。
-###怎么用Sublime text写Markdown？
+###1. 怎么用Sublime text写Markdown？
 Sublime text有着非常丰富的插件以拓展功能，而全新安装的Sublime text是不能够很好的写MarkDown的，因此我们需要安装一个插件。
-###安装Package Control（如果已经安装则可以省略）
+###2. 安装Package Control（如果已经安装则可以省略）
 安装插件之前你首先需要安装一个Package Control用来管理你所安装的插件。
 
 如果你是**Sublime Text 3**用户，按下Ctrl+\`呼出控制台（注意这个「\`」在键盘的左上角，有些同学可能找不到=-=），输入以下代码后**回车**
@@ -68,17 +69,18 @@ Sublime text有着非常丰富的插件以拓展功能，而全新安装的Subli
 
 
 如果你是**Sublime Text 2**用户，同样也是按下Ctrl+\`呼出控制台，输入以下代码后**回车**
+
 `import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')`
 
 在此之后Sublime text会联网下载需要的东西，你可以根据状态栏了解当前是否已经成功安装了Package Control。
-###安装Omni​Markup​Previewer
+###3. 安装Omni​Markup​Previewer
 1. 打开命令面板（Command Palette），快捷键是Ctrl+Shift+P(Windows and Linux), ⌘+⇧+P(OS X)，也可以通过菜单栏找到Tools->Command Palette打开。
 
 2. 输入"Install"，选择"Package Control: Install Package"
 
 3. 输入"OmniMarkupPreviewer"，找到后回车选择，等待所需文件下载完成后即可使用！
 
-###怎么使用Omni​Markup​Previewer？
+###4. 怎么使用Omni​Markup​Previewer？
 在Preferences->Packages Settings->Omni​Markup​Previewer->Settings可以找到Omni​Markup​Previewer的设置选项，当然通常情况下不需更改，如果你打算更改其中的配置建议参考[这篇文章](http://blog.leanote.com/post/54bfa17b8404f03097000000)。
 在配置完成之后我们就可以开始写自己的文章啦！
 
