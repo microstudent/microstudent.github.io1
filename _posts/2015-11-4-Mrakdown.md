@@ -1,4 +1,8 @@
-#教你怎么使用Markdown在Windows上愉快地写博文
+---
+layout: post
+title: 教你怎么使用Markdown在Windows上愉快地写博文
+---
+
 	既然要开始写博文，那么就应该简单介绍一下我写博文所使用的工具啦，首当其冲的就是写博文需要用到的语法。
 
 	下面就简单的来介绍Windows下比较好用的工具，还有一些简单的Markdown语法。
