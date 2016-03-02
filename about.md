@@ -8,7 +8,7 @@ MicroStudent，来自天朝的一名普通学生，目前正在为Android学习�
 
 ### 人物属性
 
-个性：天然呆 (￣△￣) 
+个性：一个乐观的人
 
 外表：据说长得还可以（误
 
@@ -16,4 +16,4 @@ MicroStudent，来自天朝的一名普通学生，目前正在为Android学习�
 
 [知乎](http://www.zhihu.com/people/yizhang-shu-xie)
 
-欢迎关注 (✿◡‿◡)
+欢迎关注！！！
